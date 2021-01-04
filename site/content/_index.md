@@ -1,7 +1,7 @@
 ---
 title: Test Blog
 subtitle: Test blog
-image: img/safari-pinned-tab.svg
+image: img/products-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
